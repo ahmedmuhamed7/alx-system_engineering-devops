@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -s http://www.archive.org/download/StarWarsIVANewHope/Star\ Wars\ IV\ -\ A\ New\ Hope.mp4 | mpv -
+telnet towel.blinkenlights.nl-
